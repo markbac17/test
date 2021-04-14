@@ -4,6 +4,7 @@
     <p>
       Mark Bachurski
     </p>
+    </div>
 </template>
 
 <script>
