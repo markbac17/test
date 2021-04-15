@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Portfolio App"/>
+  <HelloWorld msg="My Portfolio App"/>
 </template>
 
 <script>
